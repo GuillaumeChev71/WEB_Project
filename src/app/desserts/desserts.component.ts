@@ -10,6 +10,7 @@ export class DessertsComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    
   }
 
 }
